@@ -411,7 +411,7 @@ footer .content-footer .end{
 ---------------------------------------------*/
 
 
-@media  screen and (max-width:570px) {
+@media  screen and (max-width:520px) {
      :root {
           --padding:1.5rem;
      }
@@ -551,7 +551,7 @@ footer .content-footer p{
 *------------------- t chw SECTION
 ---------------------------------------------*/
 
-@media  screen and (min-width:576px) and (max-width: 767px) {
+@media  screen and (min-width:520px) and (max-width: 767px) {
      :root {
           --padding:1.5rem;
      }
