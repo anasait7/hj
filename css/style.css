@@ -411,7 +411,7 @@ footer .content-footer .end{
 ---------------------------------------------*/
 
 
-@media  screen and (max-width:545px) {
+@media  screen and (max-width:570px) {
      :root {
           --padding:1.5rem;
      }
@@ -478,7 +478,7 @@ nav ul.is-active{
 .container-tex h3{
      margin-top: 55px;
    padding-top: 140px;
-  padding-left: 126px;
+  padding-left: 116px;
      
       
 }
@@ -492,9 +492,9 @@ nav ul.is-active{
      border-radius:  1.3rem 1.3rem ;
      border: 2px solid transparent;
      transition: 0.4s;
-     width: 40%;
+     width: 45%;
      margin-right: 190px;
-  margin-left: 115px;
+  margin-left: 110px;
      margin-top: 15px;
      
 }
